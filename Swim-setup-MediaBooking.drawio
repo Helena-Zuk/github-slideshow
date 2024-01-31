@@ -1,17 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T10:28:33.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="U1msjNQqCiWT55s77yix" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T10:39:47.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nNsT5VcbBSflzzRFtsEk" version="23.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="821" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Pool" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="820" height="480" as="geometry" />
+          <mxGeometry x="90" y="120" width="780" height="440" as="geometry">
+            <mxRectangle x="90" y="120" width="40" height="60" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=none;startFill=0;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-24" target="dNxyNK7c78bLwvsdeMH5-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Client&lt;br&gt;Media Team" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="800" height="120" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Client Media Team" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" width="760" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" source="dNxyNK7c78bLwvsdeMH5-23" target="dNxyNK7c78bLwvsdeMH5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,8 +33,8 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-32" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="666" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Event Services &lt;br&gt;Support Team" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="120" width="800" height="120" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Event Services Support Team&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="110" width="760" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="orzJr2JAbaMpw1yVr_6s-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,14 +62,14 @@
             <mxPoint x="314" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="FAME DB dev (Flo)" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="240" width="800" height="120" as="geometry" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;FAME DB dev (Flo)&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
+          <mxGeometry x="20" y="250" width="760" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="Bind &lt;br&gt;profiles through script" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="191" y="20" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pjozMHKdjuDKzzugaOkP-1" value="ACCR team" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="360" width="800" height="120" as="geometry" />
+          <mxGeometry x="20" y="350" width="760" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pjozMHKdjuDKzzugaOkP-3" value="Configure&lt;br&gt;Accred" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="pjozMHKdjuDKzzugaOkP-1" vertex="1">
           <mxGeometry x="261" y="20" width="80" height="60" as="geometry" />
@@ -91,11 +93,12 @@
             <mxPoint x="300" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuwwUCo8V9RNHKWbGGmZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="pjozMHKdjuDKzzugaOkP-3">
+        <mxCell id="uuwwUCo8V9RNHKWbGGmZ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.917;exitY=0.972;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="orzJr2JAbaMpw1yVr_6s-2" target="pjozMHKdjuDKzzugaOkP-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="321" y="210" as="sourcePoint" />
             <mxPoint x="261" y="270" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="322" y="210" />
               <mxPoint x="321" y="210" />
             </Array>
           </mxGeometry>
