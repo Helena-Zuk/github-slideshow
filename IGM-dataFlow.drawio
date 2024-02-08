@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T10:50:28.662Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="-jNCgeMZAimIeg5r9XwP" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T14:56:56.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8VOo_sOwYdqglW6r_uzl" version="23.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1232" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1027" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -928,6 +928,71 @@
             <mxRectangle width="370" height="19" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-91" target="pcWrC_nRyzjh7GWseDeY-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object type="factSheet" label="Identity Governance Management" factSheetType="Application" factSheetId="a150b30c-0791-4697-baf8-0e4c35828d77" id="pcWrC_nRyzjh7GWseDeY-91">
+          <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#f7dc17;fontColor=#000000;strokeColor=#f7dc17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2310" y="700" width="120" height="95" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-92" target="pcWrC_nRyzjh7GWseDeY-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-106" value="master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pcWrC_nRyzjh7GWseDeY-99">
+          <mxGeometry x="-0.2143" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object type="factSheet" label="SAP employees" factSheetType="Application" factSheetId="4e930027-1eaf-47a0-bd06-682669f0a0be" id="pcWrC_nRyzjh7GWseDeY-92">
+          <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#f7dc17;fontColor=#000000;strokeColor=#f7dc17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2030" y="725" width="80" height="45" as="geometry" />
+          </mxCell>
+        </object>
+        <object type="factSheet" label="Azure AD" factSheetType="Application" factSheetId="c3ded5f4-ad67-49ee-9abd-1865e4881e1f" id="pcWrC_nRyzjh7GWseDeY-93">
+          <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#f7dc17;fontColor=#000000;strokeColor=#f7dc17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2200" y="610" width="80" height="45" as="geometry" />
+          </mxCell>
+        </object>
+        <object type="factSheet" label="FAME" factSheetType="Application" factSheetId="c2974416-8f2b-426d-b62a-706bacb31a5a" id="pcWrC_nRyzjh7GWseDeY-94">
+          <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#ee6d9c;fontColor=#FFFFFF;strokeColor=#ee6d9c;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2307" y="900" width="130" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-96" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="2140" y="420" as="sourcePoint" />
+            <mxPoint x="2240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-97" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="2140" y="420" as="sourcePoint" />
+            <mxPoint x="2240" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-98" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2160" y="450" as="sourcePoint" />
+            <mxPoint x="2210" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pcWrC_nRyzjh7GWseDeY-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2371.85" y="795" as="sourcePoint" />
+            <mxPoint x="2421.85" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-105" value="master" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pcWrC_nRyzjh7GWseDeY-104">
+          <mxGeometry x="-0.2296" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object type="factSheet" label="CARE" factSheetType="Application" factSheetId="4e930027-1eaf-47a0-bd06-682669f0a0be" id="pcWrC_nRyzjh7GWseDeY-107">
+          <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#f7dc17;fontColor=#000000;strokeColor=#f7dc17;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="2350" y="585" width="80" height="45" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
