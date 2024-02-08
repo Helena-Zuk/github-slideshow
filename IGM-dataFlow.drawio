@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T16:01:47.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IP6nfHVVYqAdZKdcfT8l" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T16:06:31.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="j0DLLw0YTDqckmEV6vDB" version="23.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1969" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -973,7 +973,7 @@
         </object>
         <object type="factSheet" label="Split Apps&lt;br&gt;Travel, etc" factSheetType="Application" factSheetId="f88ba9fb-6682-423a-80e4-6531f1c1e0b2" id="pcWrC_nRyzjh7GWseDeY-112">
           <mxCell style="shape=label;perimeter=rectanglePerimeter;fontSize=11;fontFamily=Axiforma, Helvetica Neue, Helvetica, Arial, sans-serif;align=center;verticalAlign=middle;fillColor=#0f7eb5;strokeColor=#0f7eb5;fontColor=#ffffff;startSize=45;whiteSpace=wrap;rounded=1;arcSize=10;html=1;fillColor=#ee6d9c;fontColor=#FFFFFF;strokeColor=#ee6d9c;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-            <mxGeometry x="2740" y="865" width="110" height="85" as="geometry" />
+            <mxGeometry x="2740" y="872.5" width="110" height="85" as="geometry" />
           </mxCell>
         </object>
         <object type="factSheet" label="Person Directory Service" factSheetType="Application" factSheetId="c3ded5f4-ad67-49ee-9abd-1865e4881e1f" id="pcWrC_nRyzjh7GWseDeY-113">
@@ -999,10 +999,10 @@
         <mxCell id="pcWrC_nRyzjh7GWseDeY-123" value="Create Identity" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-124" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-122">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-124" value="SAP ID" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-122">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-125" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-122">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-125" value="Trigram" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-122">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcWrC_nRyzjh7GWseDeY-128" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-91" target="pcWrC_nRyzjh7GWseDeY-93">
@@ -1014,10 +1014,10 @@
         <mxCell id="pcWrC_nRyzjh7GWseDeY-129" value="Create / update&lt;br&gt;&amp;nbsp;account" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-130" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-128">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-130" value="trigram" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-128">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-131" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-128">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-131" value="AD account" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-128">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcWrC_nRyzjh7GWseDeY-133" value="&lt;br&gt;" style="endArrow=classic;html=1;rounded=0;exitX=-0.003;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.162;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-91" target="pcWrC_nRyzjh7GWseDeY-94">
@@ -1031,10 +1031,10 @@
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-135" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-133">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-135" value="trigram" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-133">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-136" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-133">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-136" value="edit FAME rights" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-133">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcWrC_nRyzjh7GWseDeY-138" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.3;entryY=1.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-94" target="pcWrC_nRyzjh7GWseDeY-91">
@@ -1046,10 +1046,10 @@
         <mxCell id="pcWrC_nRyzjh7GWseDeY-139" value="Link Person &lt;br&gt;with existing identity" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-140" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-138">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-140" value="create Fame user" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-138">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-141" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-138">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-141" value="UPN" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-138">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcWrC_nRyzjh7GWseDeY-142" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-94" target="pcWrC_nRyzjh7GWseDeY-113">
@@ -1061,10 +1061,25 @@
         <mxCell id="pcWrC_nRyzjh7GWseDeY-143" value="creates&lt;br&gt;PDS ID" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-142">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-144" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-142">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-144" value="FAME ID" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-142">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-145" value="Target" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-142">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-145" value="PDS ID" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-142">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-147" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pcWrC_nRyzjh7GWseDeY-112" target="pcWrC_nRyzjh7GWseDeY-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2750" y="920" as="sourcePoint" />
+            <mxPoint x="2660" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-148" value="links with PDS ID" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-149" value="invite&amp;nbsp;&lt;br&gt;user" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-147">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-150" value="PDS ID" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="pcWrC_nRyzjh7GWseDeY-147">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
