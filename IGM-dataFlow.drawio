@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T12:52:39.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="SRQq0mx6_FmAZ1UpQquS" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T12:53:43.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="qNMWbB-nNZej5HwBpjwx" version="23.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="-389" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
             <mxPoint x="2004" y="456" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pcWrC_nRyzjh7GWseDeY-159" value="edit / manage account&lt;br&gt;give rights&lt;br&gt;include in BR&lt;br&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="pcWrC_nRyzjh7GWseDeY-158" connectable="0" vertex="1">
+        <mxCell id="pcWrC_nRyzjh7GWseDeY-159" value="edit / manage account&lt;br&gt;provision rights&lt;br&gt;include in BR" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="pcWrC_nRyzjh7GWseDeY-158" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcWrC_nRyzjh7GWseDeY-160" value="Trigram" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="pcWrC_nRyzjh7GWseDeY-158" connectable="0" vertex="1">
