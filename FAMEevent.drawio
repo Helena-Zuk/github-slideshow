@@ -466,7 +466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Event-workflow" id="LdA7IBtjp3sNnwdMuwwQ">
-    <mxGraphModel dx="1729" dy="723" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1159" dy="413" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AHueNW38H8Q2Sni_Hp6m-0" />
         <mxCell id="AHueNW38H8Q2Sni_Hp6m-1" parent="AHueNW38H8Q2Sni_Hp6m-0" />
@@ -501,7 +501,12 @@
           <mxGeometry x="20" y="120" width="950" height="129" as="geometry" />
         </mxCell>
         <mxCell id="AHueNW38H8Q2Sni_Hp6m-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="AHueNW38H8Q2Sni_Hp6m-13" source="AHueNW38H8Q2Sni_Hp6m-15" target="AHueNW38H8Q2Sni_Hp6m-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="387" y="196" />
+              <mxPoint x="387" y="196" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AHueNW38H8Q2Sni_Hp6m-15" value="L2 imports Football matches as subevents" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="AHueNW38H8Q2Sni_Hp6m-13" vertex="1">
           <mxGeometry x="214" y="166" width="137" height="60" as="geometry" />
@@ -552,6 +557,16 @@
         <mxCell id="7MpXgfzLgi4ilCpgKQRW-7" value="" style="shape=message;html=1;outlineConnect=0;" parent="7MpXgfzLgi4ilCpgKQRW-6" vertex="1">
           <mxGeometry width="20" height="14" relative="1" as="geometry">
             <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JiY7efN0ocCZTayjQepn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="AHueNW38H8Q2Sni_Hp6m-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="152" y="65.20999999999998" as="sourcePoint" />
+            <mxPoint x="214" y="65" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="188" y="65.20999999999998" />
+              <mxPoint x="188" y="65.20999999999998" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AHueNW38H8Q2Sni_Hp6m-24" value="Broadcast Venue" style="swimlane;html=1;startSize=20;horizontal=0;" parent="AHueNW38H8Q2Sni_Hp6m-2" vertex="1">
