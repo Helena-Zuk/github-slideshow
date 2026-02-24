@@ -156,6 +156,9 @@
         <mxCell id="Ym4Yy1aS_q4YkWZtBjiJ-25" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;SI prestation Espèces&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="75" x="210" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="zTTy6WQFs-_l-7RpXVHh-0" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;prestations AVS AI&amp;nbsp;&lt;/span&gt;internat" vertex="1">
+          <mxGeometry height="50" width="75" x="790" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
