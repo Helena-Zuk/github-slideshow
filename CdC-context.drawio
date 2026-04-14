@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.5.5" pages="2">
   <diagram name="LandscapeAssurances" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="1464" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,14 +22,14 @@
         <mxCell id="1ea317790d2ca983-22" edge="1" parent="1" source="1ea317790d2ca983-2" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-6" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;AI&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="75" x="457.5" y="190" as="geometry" />
+        <mxCell id="1ea317790d2ca983-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;AI Assurance Invalidité&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="82.5" x="457.5" y="190" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-15" edge="1" parent="1" source="1ea317790d2ca983-3" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-4" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;Prest complem&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="75" x="700" y="190" as="geometry" />
+        <mxCell id="1ea317790d2ca983-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;Prestations complémentaires&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="105" x="670" y="190" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-16" edge="1" parent="1" source="1ea317790d2ca983-4" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-5" value="relation">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="1ea317790d2ca983-24" edge="1" parent="1" source="1ea317790d2ca983-7" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-8" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;Alloc fam&lt;/span&gt;" vertex="1">
+        <mxCell id="1ea317790d2ca983-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;Allocations &amp;nbsp;familiales&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="75" x="360" y="320" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="End node" vertex="1">
@@ -61,14 +61,14 @@
         <mxCell id="1ea317790d2ca983-19" edge="1" parent="1" source="1ea317790d2ca983-9" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-10" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="AVS" vertex="1">
-          <mxGeometry height="50" width="75" x="210" y="190" as="geometry" />
+        <mxCell id="1ea317790d2ca983-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="AVS Assurance Vieillesse et Survivants" vertex="1">
+          <mxGeometry height="70" width="105" x="180" y="190" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-20" edge="1" parent="1" source="1ea317790d2ca983-10" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-11" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;APG alloc perte gain&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="75" x="210" y="320" as="geometry" />
+        <mxCell id="1ea317790d2ca983-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;APG Allocations pour Perte de Gain&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="95" x="190" y="320" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-18" edge="1" parent="1" source="1ea317790d2ca983-11" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-8" value="relation">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SystèmesCdC" id="gwEwj1gTMqxXTqpcxglU">
-    <mxGraphModel dx="1431" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="884" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Ym4Yy1aS_q4YkWZtBjiJ-0" />
         <mxCell id="Ym4Yy1aS_q4YkWZtBjiJ-1" parent="Ym4Yy1aS_q4YkWZtBjiJ-0" />
