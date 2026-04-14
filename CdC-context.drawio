@@ -88,6 +88,9 @@
         <mxCell id="Sl6veIyVti2fQcpWv-6X-8" parent="Sl6veIyVti2fQcpWv-6X-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="DM6GAVYrbtnx4WciS78c-1" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="1er Pilier Assurances Sociales" vertex="1">
+          <mxGeometry height="40" width="420" x="37.5" y="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -175,7 +178,7 @@
           <mxGeometry height="50" width="75" x="825" y="456" as="geometry" />
         </mxCell>
         <mxCell id="dKw-ZlDj3Q4sP7hYJGqi-0" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="1er Pilier Assurances Sociales" vertex="1">
-          <mxGeometry height="40" width="1200" x="120" y="50" as="geometry" />
+          <mxGeometry height="40" width="420" x="120" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
