@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.5.5" pages="2">
   <diagram name="LandscapeAssurances" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="884" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="1ea317790d2ca983-23" edge="1" parent="1" source="1ea317790d2ca983-6" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-8" value="relation">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;Node 6&lt;/span&gt;" vertex="1">
+        <mxCell id="1ea317790d2ca983-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="&lt;span&gt;AC Assurance Chômage&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="75" x="550" y="320" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-24" edge="1" parent="1" source="1ea317790d2ca983-7" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12" target="1ea317790d2ca983-8" value="relation">
@@ -88,14 +88,14 @@
         <mxCell id="Sl6veIyVti2fQcpWv-6X-8" parent="Sl6veIyVti2fQcpWv-6X-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Item 3" vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="DM6GAVYrbtnx4WciS78c-1" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="1er Pilier Assurances Sociales" vertex="1">
-          <mxGeometry height="40" width="420" x="37.5" y="40" as="geometry" />
+        <mxCell id="DM6GAVYrbtnx4WciS78c-1" parent="1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="1er Pilier Assurances Sociales / Prestations Fédérales" vertex="1">
+          <mxGeometry height="40" width="732.5" x="70" y="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="SystèmesCdC" id="gwEwj1gTMqxXTqpcxglU">
-    <mxGraphModel dx="884" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Ym4Yy1aS_q4YkWZtBjiJ-0" />
         <mxCell id="Ym4Yy1aS_q4YkWZtBjiJ-1" parent="Ym4Yy1aS_q4YkWZtBjiJ-0" />
@@ -177,8 +177,8 @@
         <mxCell id="zTTy6WQFs-_l-7RpXVHh-1" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" value="assujetti-&lt;div&gt;ssement &amp;nbsp;conv internat&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="75" x="825" y="456" as="geometry" />
         </mxCell>
-        <mxCell id="dKw-ZlDj3Q4sP7hYJGqi-0" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" value="1er Pilier Assurances Sociales" vertex="1">
-          <mxGeometry height="40" width="420" x="120" y="50" as="geometry" />
+        <mxCell id="X6gvE6TmpUbufuKq2TdH-0" parent="Ym4Yy1aS_q4YkWZtBjiJ-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;text-align: center; white-space: nowrap;&quot;&gt;1er Pilier Assurances Sociales&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Source&amp;nbsp;02_Projet_Loi-federale_LSIAS.pdf&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.fedlex.admin.ch/eli/fga/2025/2960/fr&quot;&gt;https://www.fedlex.admin.ch/eli/fga/2025/2960/fr&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="415" x="65" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
