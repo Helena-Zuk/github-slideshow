@@ -162,6 +162,9 @@
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-21" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.education;fillColorStyles=fillColor2,fillColor3;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor=none;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="28.14" width="42" x="33" y="600" as="geometry" />
         </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-22" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.work_com;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032e61;fillColor3=#00a1e0;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="45.08" width="46" x="680" y="240" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
