@@ -171,6 +171,9 @@
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assujettissement à l&#39;assurance sur base Conventions internationales |" vertex="1">
           <mxGeometry height="106.52" width="170" x="570" y="473.48" as="geometry" />
         </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-26" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.non_profit;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="38.13" width="41" x="37" y="730" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
