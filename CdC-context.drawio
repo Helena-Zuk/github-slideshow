@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.5.5" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" pages="4">
   <diagram name="LandscapeAssurances" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
     <mxGraphModel dx="1279" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="seBN0d2o7hbWBVlTlygV" name="Execution-Durchfuehrung">
-    <mxGraphModel dx="884" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1174" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,27 +244,35 @@
             <mxGeometry height="60" width="174" x="410" y="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-10" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="h Organes sur les prestations complémentaires | &amp;nbsp;Stellen über Ergänzungsleistungen zur Alters- Hinterlassenen- und Invaliden-Versicherung ELG" vertex="1">
-          <mxGeometry height="60" width="260" x="680" y="130" as="geometry" />
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-10" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="h Organes sur les prestations &lt;b&gt;complémentaires&lt;/b&gt; | &amp;nbsp;Stellen über Ergänzungsleistungen zur Alters- Hinterlassenen- und Invaliden-Versicherung ELG" vertex="1">
+          <mxGeometry height="60" width="290" x="650" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-12" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="a Caisses cantonales de compensation | Kantonalen Ausgleichskassen" vertex="1">
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-12" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="a Caisses &lt;b&gt;cantonales&lt;/b&gt; de compensation | Kantonalen Ausgleichskassen" vertex="1">
           <mxGeometry height="60" width="200" x="70" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-13" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="b Caisses de compensation professionnelles | Verbandsausgleichskassen" vertex="1">
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-13" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="b Caisses de compensation &lt;b&gt;professionnelles&lt;/b&gt; | Verbandsausgleichskassen" vertex="1">
           <mxGeometry height="60" width="200" x="150" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-14" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="c Caisse Fédérale de compensation | Eidgenössische Ausgleichskasse" vertex="1">
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-14" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="c Caisse &lt;b&gt;Fédérale&lt;/b&gt; de compensation | Eidgenössische Ausgleichskasse" vertex="1">
           <mxGeometry height="60" width="200" x="220" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-15" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="d Caisse suisse de compensation | Schweizerische Ausgleichskasse" vertex="1">
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-15" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="d Caisse &lt;b&gt;suisse&lt;/b&gt; de compensation | Schweizerische Ausgleichskasse" vertex="1">
           <mxGeometry height="60" width="200" x="280" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-16" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="e Offices AI cantonaux | &amp;nbsp;kantonalen IV Invalidenversicherung-Stellen" vertex="1">
+        <mxCell id="SK-7JQQMi0iQN-fU8ooQ-16" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="e Offices &lt;b&gt;AI cantonaux&lt;/b&gt; | &amp;nbsp;kantonalen IV Invalidenversicherung-Stellen" vertex="1">
           <mxGeometry height="60" width="200" x="560" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="mjaamXa9SGeVd07sOV4T-1" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="f Office AI pour assurés à l&#39;étranger | &amp;nbsp;IV-Stelle für Versicherte im Ausland" vertex="1">
+        <mxCell id="mjaamXa9SGeVd07sOV4T-1" parent="guiQLCzA3ADf--Qd08e_-16" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" value="f Office &lt;b&gt;AI&lt;/b&gt; pour assurés à &lt;b&gt;l&#39;étranger&lt;/b&gt; | &amp;nbsp;IV-Stelle für Versicherte im Ausland" vertex="1">
           <mxGeometry height="60" width="200" x="630" y="284" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_IR8Yo7sCsZgmvKt-LvF" name="FER">
+    <mxGraphModel dx="1174" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
