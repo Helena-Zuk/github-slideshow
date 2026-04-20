@@ -132,6 +132,36 @@
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Allocations familiales |" vertex="1">
           <mxGeometry height="50" width="130" x="125" y="660" as="geometry" />
         </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="OFAS" vertex="1">
+          <mxGeometry height="60" width="30" x="790" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recours" vertex="1">
+          <mxGeometry height="50" width="110" x="760" y="239.65" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-14" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="47" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-15" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.employees;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#d83a00;fillColor3=#ff784f;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="43.31" width="42" x="37" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-16" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.success;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="33.83" width="23" x="47" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-17" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.health;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="36.96" width="44" x="37" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-18" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.learning;fillColorStyles=fillColor2,fillColor3,fillColor4,fillColor5,fillColor6,fillColor7,fillColor8;fillColor2=#032d60;fillColor3=#009a44;fillColor4=#741b89;fillColor5=#a372b5;fillColor6=#90d0fe;fillColor7=#ffffff;fillColor8=#046a38;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="41" width="41" x="40" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-19" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.data;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="39.52" width="32" x="47" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-20" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.marketing2;fillColorStyles=fillColor2,fillColor3;fillColor2=#dd7a01;fillColor3=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="37" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-21" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.education;fillColorStyles=fillColor2,fillColor3;fillColor2=#4c2248;fillColor3=#7d52c2;fillColor=none;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="28.14" width="42" x="33" y="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
