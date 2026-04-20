@@ -111,6 +111,9 @@
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Prestations espèces |&amp;nbsp;" vertex="1">
           <mxGeometry height="70" width="130" x="120" y="280" as="geometry" />
         </mxCell>
+        <mxCell id="6d6qL7-rjPrWwzdaXZ2O-5" parent="1" style="shape=mxgraph.signs.travel.currency_exchange;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="50.7" width="54" x="40" y="289.65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
