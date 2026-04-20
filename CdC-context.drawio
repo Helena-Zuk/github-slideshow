@@ -95,7 +95,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="05EUdvfca7CWaHg0AG-A" name="Syst Info CH">
-    <mxGraphModel dx="799" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,10 +133,10 @@
           <mxGeometry height="50" width="130" x="125" y="660" as="geometry" />
         </mxCell>
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="OFAS" vertex="1">
-          <mxGeometry height="60" width="30" x="790" y="30" as="geometry" />
+          <mxGeometry height="60" width="30" x="620" y="20.35" as="geometry" />
         </mxCell>
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recours" vertex="1">
-          <mxGeometry height="50" width="110" x="760" y="239.65" as="geometry" />
+          <mxGeometry height="50" width="110" x="590" y="230" as="geometry" />
         </mxCell>
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-14" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.channels;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032d60;fillColor3=#0d9dda;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="47" y="220" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry height="28.14" width="42" x="33" y="600" as="geometry" />
         </mxCell>
         <mxCell id="6d6qL7-rjPrWwzdaXZ2O-22" parent="1" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.work_com;fillColorStyles=fillColor2,fillColor3,fillColor4;fillColor2=#032e61;fillColor3=#00a1e0;fillColor4=#ffffff;fillColor=none;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="45.08" width="46" x="680" y="240" as="geometry" />
+          <mxGeometry height="45.08" width="46" x="510" y="230.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
